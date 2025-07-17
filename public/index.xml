@@ -1,6 +1,254 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>My New Hugo Site</title><link>https://nifengxiao12.github.io/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- 0.148.0</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 16:54:19 +0800</lastBuildDate><atom:link href="https://nifengxiao12.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇文章</title><link>https://nifengxiao12.github.io/posts/first-article/</link><pubDate>Fri, 11 Jul 2025 16:54:19 +0800</pubDate><guid>https://nifengxiao12.github.io/posts/first-article/</guid><description>&lt;h4 id="写于深圳免税商务大厦39层实习第五天">写于深圳免税商务大厦39层，实习第五天&lt;/h4>
-&lt;h5 id="预期调整">预期调整&lt;/h5>
-&lt;p>就业是很苦的。这个暑假理论上你会很累。我希望你理解和懂得。
-另一件事情，不要太敬业，这些东西算不出来也没有问题哦！&lt;/p>
-&lt;blockquote>
-&lt;p>注：这只是一般测试&lt;/p>&lt;/blockquote></description></item><item><title>Hello World</title><link>https://nifengxiao12.github.io/posts/hello-world/</link><pubDate>Fri, 11 Jul 2025 11:35:29 +0800</pubDate><guid>https://nifengxiao12.github.io/posts/hello-world/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jul 2025 09:54:01 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yaoqian</title>
+      <link>http://localhost:1313/posts/yaoqian/</link>
+      <pubDate>Wed, 16 Jul 2025 09:54:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/yaoqian/</guid>
+      <description>&lt;h3 id=&#34;姚前事件数字人民币研发者涉加密货币腐败案markdown版整理&#34;&gt;姚前事件：数字人民币研发者涉加密货币腐败案（Markdown版整理）&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;截至 2025 年 7 月，中国金融科技领域前高官 &lt;strong&gt;姚前&lt;/strong&gt; 因涉嫌严重违纪违法被“双开”，案件涉及“虚拟货币行贿受贿”，是中国首次在官方反腐通报中提及 &lt;strong&gt;加密货币权钱交易&lt;/strong&gt;。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;1-姚前简介与履历&#34;&gt;1. 姚前简介与履历&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;姓名&lt;/strong&gt;：姚前&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;学历背景&lt;/strong&gt;：南京大学 信息管理与计算机 博士&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关键职位&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;2017 年起担任中国人民银行数字货币研究所首任所长&lt;/li&gt;
+&lt;li&gt;2019 年后调任证监会，历任科技监管局局长、信息中心主任等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/yaoqian/yaoqian.png&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;被称为中国法定数字货币（e-CNY）研发的“总设计师”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;2-调查与处分时间线&#34;&gt;2. 调查与处分时间线&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;日期&lt;/th&gt;
+          &lt;th&gt;节点&lt;/th&gt;
+          &lt;th&gt;机构&lt;/th&gt;
+          &lt;th&gt;描述摘要&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2024-04-26&lt;/td&gt;
+          &lt;td&gt;立案审查&lt;/td&gt;
+          &lt;td&gt;中央纪委驻证监会纪检组、广东省纪委&lt;/td&gt;
+          &lt;td&gt;涉嫌严重违纪违法&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2024-11-20&lt;/td&gt;
+          &lt;td&gt;“双开”通报&lt;/td&gt;
+          &lt;td&gt;中央纪委国家监委&lt;/td&gt;
+          &lt;td&gt;收受巨额财物，利用虚拟货币进行权钱交易&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2024-11-21&lt;/td&gt;
+          &lt;td&gt;媒体曝光&lt;/td&gt;
+          &lt;td&gt;SCMP, Global Times 等&lt;/td&gt;
+          &lt;td&gt;被称为中国首例“虚拟货币腐败案”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;（未公开）&lt;/td&gt;
+          &lt;td&gt;司法移送&lt;/td&gt;
+          &lt;td&gt;汕尾市监察机关&lt;/td&gt;
+          &lt;td&gt;涉及受贿、洗钱等指控&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;3-加密货币涉案细节&#34;&gt;3. 加密货币涉案细节&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;官方明确表述：“&lt;strong&gt;利用虚拟货币进行权钱交易&lt;/strong&gt;”&lt;/li&gt;
+&lt;li&gt;媒体引述称：&lt;strong&gt;“受贿主要通过比特币收取”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;利用加密货币 &lt;strong&gt;去中心化、难追踪&lt;/strong&gt; 特性转移资产&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：官方通报中并未明确币种为“比特币”，媒体报道多为引述消息人士&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;4-数字人民币项目受影响情况&#34;&gt;4. 数字人民币项目受影响情况&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;项目未中断&lt;/strong&gt;：现任所长穆长春领导团队，e-CNY 持续扩展试点城市&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;政策加强&lt;/strong&gt;：央行与证监会加码“技术岗位反腐”与“虚拟资产监管”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;合规信号&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;国家支持“&lt;strong&gt;可控匿名、可监管&lt;/strong&gt;”的法定数字货币&lt;/li&gt;
+&lt;li&gt;打压“去中心化、匿名逃避监管”的加密资产（如 BTC/ETH）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;5-流言与事实澄清表&#34;&gt;5. 流言与事实澄清表&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;传言内容&lt;/th&gt;
+          &lt;th&gt;真实情况&lt;/th&gt;
+          &lt;th&gt;来源说明&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;数字人民币“总负责人”被抓&lt;/td&gt;
+          &lt;td&gt;姚前早在 2018 年离开央行，非现负责人&lt;/td&gt;
+          &lt;td&gt;人民银行官网、通报内容&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;“涉嫌比特币洗钱 40 亿”&lt;/td&gt;
+          &lt;td&gt;官方未公布具体金额和币种&lt;/td&gt;
+          &lt;td&gt;通报中仅表述“金额特别巨大”&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;所有受贿款均为加密币&lt;/td&gt;
+          &lt;td&gt;未被证实，可能为部分贿款以 BTC 支付&lt;/td&gt;
+          &lt;td&gt;媒体推测与报道，不具权威性&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;6-事件意义分析&#34;&gt;6. 事件意义分析&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;首次写入纪委通报的“虚拟货币腐败”案例&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;暴露监管科技岗位“旋转门”问题与贪腐风险&lt;/li&gt;
+&lt;li&gt;为数字金融、区块链行业合规划出红线&lt;/li&gt;
+&lt;li&gt;强化金融科技人事与资金流的多维审计&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;参考资料与延伸阅读&#34;&gt;参考资料与延伸阅读&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ccdi.gov.cn&#34;&gt;中央纪委国家监委官网 - 姚前被“双开”通报&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.people.com.cn&#34;&gt;人民日报：姚前案反映的技术监管腐败新动向&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.southcn.com&#34;&gt;南方都市报：姚前涉案细节曝光，虚拟币行贿受贿&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scmp.com&#34;&gt;SCMP: China official who helped develop digital yuan sacked for crypto bribery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.chainnews.com&#34;&gt;链闻：姚前受贿细节首次曝光，警惕加密腐败穿透监管&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pbc.gov.cn&#34;&gt;穆长春：数字人民币“可控匿名”与监管透明性演讲稿&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>山林不能给野火，江海不能灌漏卮</title>
+      <link>http://localhost:1313/posts/lantianli/</link>
+      <pubDate>Wed, 16 Jul 2025 09:43:25 +0800</pubDate>
+      <guid>http://localhost:1313/posts/lantianli/</guid>
+      <description>&lt;h3 id=&#34;蓝天立事件截至2025年7月&#34;&gt;蓝天立事件（截至2025年7月）&lt;/h3&gt;
+&lt;p&gt;“蓝天立事件”指的是广西壮族自治区党委副书记、自治区政府主席蓝天立于 2025 年 5 月被中央纪委国家监委立案查处的重大政治事件。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;蓝天立图片&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/lantianli/lantianli.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;-事件概述&#34;&gt;🧭 事件概述&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;立案时间&lt;/strong&gt;：2025年5月16日&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;调查机构&lt;/strong&gt;：中央纪委国家监委&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;通报内容&lt;/strong&gt;：涉嫌严重违纪违法，正在接受纪律审查和监察调查&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地方响应&lt;/strong&gt;：广西自治区党委召开紧急常委扩大会，全区开展配套清理与整顿&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;来源：&lt;a href=&#34;https://zh.wikipedia.org/zh-hans/%E8%93%9D%E5%A4%A9%E7%AB%8B&#34;&gt;Wikipedia - 蓝天立&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;-后续处置进展&#34;&gt;🏛️ 后续处置进展&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;日期&lt;/th&gt;
+          &lt;th&gt;措施&lt;/th&gt;
+          &lt;th&gt;详情&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2025/05/16&lt;/td&gt;
+          &lt;td&gt;官宣立案&lt;/td&gt;
+          &lt;td&gt;中央纪委国家监委网站通报&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2025/05/29&lt;/td&gt;
+          &lt;td&gt;自治区人大接受其辞职&lt;/td&gt;
+          &lt;td&gt;同时罢免其自治区人大代表、全国人大代表职务&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2025/06&lt;/td&gt;
+          &lt;td&gt;全国人大常委会终止其代表资格&lt;/td&gt;
+          &lt;td&gt;按程序确认，完全解除公职身份&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;源：&lt;a href=&#34;https://china.caixin.com/2025-05-29/102325427.html&#34;&gt;财新网&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;-牵涉人员&#34;&gt;👥 牵涉人员&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;韦霄燕&lt;/strong&gt;：蓝天立妻子，广西医科大学统战部原部长，传被同步调查&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;蓝某弟&lt;/strong&gt;：蓝天立胞弟，涉及资产问题&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;陈刚&lt;/strong&gt;：广西自治区党委书记，表态“确保政治生态稳定”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;源：&lt;a href=&#34;https://finance.sina.com.cn/roll/2025-05-21/doc-inexicec6082448.shtml&#34;&gt;新浪财经&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;-关联背景与整顿行动&#34;&gt;🌍 关联背景与整顿行动&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;环境治理倒查十年&lt;/strong&gt;：启动针对非法采矿与重金属污染的倒查机制&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可能涉及金属矿权贪腐链条&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;广西政坛动荡&lt;/strong&gt;：与2025年同时被查的金湘军仕途有交集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;源：&lt;a href=&#34;https://www.cna.com.tw/news/acn/202505210171.aspx&#34;&gt;中央社&lt;/a&gt; &lt;a href=&#34;https://m.mp.oeeee.com/a/BAAFRD0000202505161086977.html&#34;&gt;南方都市报&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;-蓝天立简历回顾&#34;&gt;🧾 蓝天立简历回顾&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;出生：1962年，广西河池人，壮族&lt;/li&gt;
+&lt;li&gt;学历：广西大学工程硕士&lt;/li&gt;
+&lt;li&gt;曾任：广西科技厅厅长、河池市委书记、自治区副主席、政协主席&lt;/li&gt;
+&lt;li&gt;主席任期：2020年10月起主持政府，2021年1月正式当选自治区主席&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;源：&lt;a href=&#34;https://shanghai.xinmin.cn/xmsq/2020/10/19/31827891.html&#34;&gt;新民晚报&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;-事件分析与意义&#34;&gt;⚖️ 事件分析与意义&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;高压反腐常态化&lt;/strong&gt;：蓝天立是中共二十大后第二位“任上落马”的省级“一把手”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生态环保进入反腐主线&lt;/strong&gt;：以“重金属污染”为抓手倒查产业腐败&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;地方治理架构整肃&lt;/strong&gt;：广西高层人事或将重组，震慑效应显著&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Time Plan</title>
+      <link>http://localhost:1313/posts/time-plan/</link>
+      <pubDate>Mon, 14 Jul 2025 23:04:43 +0800</pubDate>
+      <guid>http://localhost:1313/posts/time-plan/</guid>
+      <description>&lt;h1 id=&#34;时间不够用&#34;&gt;时间不够用&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;今天心情一般，脸部一直爆痘，睡眠质量OK，但是事情因为拖延没干完。所以压力有些大。解决压力的唯一途径就是开始行动。&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3 id=&#34;分析原因以今日日程安排为例&#34;&gt;分析原因——以今日日程安排为例&lt;/h3&gt;
+&lt;p&gt; 
+   1.早晨7:50闹钟，被自己硬生生拖到8:10起床，我只能接受自己10min苏醒时间。&lt;strong&gt;假日更不能接受自己拖延&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;  2.&lt;strong&gt;抖音害人&lt;/strong&gt;：中午刷抖音，干活累了歇一会儿刷抖音。我建议你休息的时候依靠看&lt;strong&gt;新闻&lt;/strong&gt;或者书籍或者&lt;strong&gt;gpt&lt;/strong&gt;，别抖音了。&lt;em&gt;&lt;strong&gt;预计抖音每天浪费你至少3h。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;  3.&lt;strong&gt;三国杀&lt;/strong&gt;,每天登陆一下意思意思就得了，不要折磨自己了好吗。
+ &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;你好
+你好
+你好&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:1313/posts/first-article/</link>
+      <pubDate>Fri, 11 Jul 2025 16:54:19 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first-article/</guid>
+      <description>&lt;h4 id=&#34;写于深圳免税商务大厦39层实习第五天&#34;&gt;写于深圳免税商务大厦39层，实习第五天&lt;/h4&gt;
+&lt;h4 id=&#34;预期调整&#34;&gt;预期调整&lt;/h4&gt;
+&lt;p&gt;就业是很苦的。这个暑假理论上你会很累。我希望你理解和懂得。
+另一件事情，不要太敬业，这些东西算不出来也没有问题哦！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注：这只是一般测试&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
